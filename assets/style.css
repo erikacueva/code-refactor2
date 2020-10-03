@@ -70,7 +70,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* consolidated all the benefit- classes to benefit*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -91,6 +91,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+/* consolidated the benefit-option img classes */
 
 .benefit-option img {
     display: block;
@@ -98,6 +99,7 @@ p {
     max-width: 150px;
 }
 
+/* consolidated the articles to one class */
 .article {
     margin-bottom: 20px;
     padding: 50px;
