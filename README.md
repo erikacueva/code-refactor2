@@ -8,10 +8,10 @@ The goal of this project was to refactor the codebase such that it meets accessi
 *updated the title;
 *consolidated classes to minimize the number of lines in the css stylesheet. 
 
-! [ Screencapture ] ( screencapture-file-Users-erikacueva-Documents-UCSD-BootCamp-week-01-Homework-code-refactor2-index-html-2020-10-03-21_35_59.png )
+! [] (screencapture-file-Users-erikacueva-Documents-UCSD-BootCamp-week-01-Homework-code-refactor2-index-html-2020-10-03-21_35_59.png)
 
 ## Link to the deployed site
-[Can be found here] (assets/screencapture-file-Users-erikacueva-Documents-UCSD-BootCamp-week-01-Homework-code-refactor2-index-html-2020-10-03-21_35_59) 
+[](assets/screencapture-file-Users-erikacueva-Documents-UCSD-BootCamp-week-01-Homework-code-refactor2-index-html-2020-10-03-21_35_59) 
 
 ## Support
 
