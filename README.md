@@ -2,11 +2,7 @@
 
 
 ## Description
-The goal of this project was to refactor the codebase such that it meets accessibility standards. The following updates were made to the index.html and css stylesheet:
-*changed the various <div> tags to their semantic equivalent;
-*added alt attributes to the images;
-*updated the title;
-*consolidated classes to minimize the number of lines in the css stylesheet. 
+The goal of this project was to refactor the codebase such that it meets accessibility standards. The following updates were made to the index.html and css stylesheet: changed the various <div> tags to their semantic equivalent; added alt attributes to the images;updated the title; and consolidated classes to minimize the number of lines in the css stylesheet. 
   
  ## Link to the deployed site
 [] (https://erikacueva.github.io/code-refactor2/) 
