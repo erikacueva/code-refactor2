@@ -1,19 +1,23 @@
 # code-refactor2
 
 
-#Description
+## Description
 The goal of this project was to refactor the codebase such that it meets accessibility standards. The following updates were made to the index.html and css stylesheet:
 *changed the various <div> tags to their semantic equivalent;
 *added alt attributes to the images;
 *updated the title;
 *consolidated classes to minimize the number of lines in the css stylesheet. 
 
+! [ Screencapture ] ( screencapture-file-Users-erikacueva-Documents-UCSD-BootCamp-week-01-Homework-code-refactor2-index-html-2020-10-03-21_35_59.png )
 
-#Support
+## Link to the deployed site
+[Can be found here] (assets/screencapture-file-Users-erikacueva-Documents-UCSD-BootCamp-week-01-Homework-code-refactor2-index-html-2020-10-03-21_35_59) 
+
+## Support
+
 Please email me with any questions or suggestions: ecueva88@gmail.com
 
-
-#Copyright <2020> <Horiseion>
+## Copyright <2020> Horiseion
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
