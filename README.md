@@ -15,14 +15,7 @@ The goal of this project was to refactor the codebase such that it meets accessi
 
 Please email me with any questions or suggestions: ecueva88@gmail.com
 
-![](https://github.com/erikacueva/code-refactor2/blob/main/assets/screencapture-file-Users-erikacueva-Documents-UCSD-BootCamp-week-01-Homework-code-refactor2-index-html-2020-10-03-21_35_59.png)
-
-## Link to the deployed site
-[ ] (https://erikacueva.github.io/code-refactor2/) 
-
-## Support
-
-Please email me with any questions or suggestions: ecueva88@gmail.com
+<img src="assets/screencapture-file-Users-erikacueva-Documents-UCSD-BootCamp-week-01-Homework-code-refactor2-index-html-2020-10-03-21_35_59.png" width=600>
 
 ## Copyright <2020> Horiseion
 
