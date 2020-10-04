@@ -7,11 +7,18 @@ The goal of this project was to refactor the codebase such that it meets accessi
 *added alt attributes to the images;
 *updated the title;
 *consolidated classes to minimize the number of lines in the css stylesheet. 
+  
+ ## Link to the deployed site
+[] (https://erikacueva.github.io/code-refactor2/) 
 
-! [ ] (https://github.com/erikacueva/code-refactor2/blob/main/assets/screencapture-file-Users-erikacueva-Documents-UCSD-BootCamp-week-01-Homework-code-refactor2-index-html-2020-10-03-21_35_59.png)
+## Support
+
+Please email me with any questions or suggestions: ecueva88@gmail.com
+
+![](https://github.com/erikacueva/code-refactor2/blob/main/assets/screencapture-file-Users-erikacueva-Documents-UCSD-BootCamp-week-01-Homework-code-refactor2-index-html-2020-10-03-21_35_59.png)
 
 ## Link to the deployed site
-[](assets/screencapture-file-Users-erikacueva-Documents-UCSD-BootCamp-week-01-Homework-code-refactor2-index-html-2020-10-03-21_35_59) 
+[ ] (https://erikacueva.github.io/code-refactor2/) 
 
 ## Support
 
